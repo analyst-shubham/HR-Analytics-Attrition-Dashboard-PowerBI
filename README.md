@@ -50,5 +50,9 @@ across departments and job roles.
 - Employees with **Job Satisfaction rating 1** show significantly higher exits.
 - **R&D department** has most attrition volume due to largest headcount.
 
-## Author
-Shubham Kumar Bhakta
+
+By Shubham Bhakta
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhambhakta/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shubham.kr1204@gmail.com)
+
